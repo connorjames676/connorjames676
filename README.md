@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm a recent graduate of Swansea University, achieving First-Class Honours in Computer Science and Artificial Intelligence.
 
